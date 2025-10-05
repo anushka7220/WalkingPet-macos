@@ -38,5 +38,5 @@ https://github.com/user-attachments/assets/ac67a1d4-a3c0-4a4a-8209-c574e6730b72
 
 
 
-Created with love by [Your Name](https://github.com/yourusername)  
+Created with love by Anushka
 If you enjoy this, ⭐ the repo or share it with your friends!
